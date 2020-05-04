@@ -10,5 +10,5 @@
 - Eelectron 4.x，桌面端开发框架
 
 ## 项目预览
-<video src="https://spiketech440100.oss-cn-shenzhen.aliyuncs.com/team-projects/20200504_232317.mp4" controls="controls" width="500" height="300"></video>
+![image](./ezgif.com-video-to-gif.gif)
 
