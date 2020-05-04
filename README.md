@@ -10,3 +10,4 @@
 - Eelectron 4.x，桌面端开发框架
 
 ## 项目预览
+![image](./ezgif.com-video-to-gif.gif)
