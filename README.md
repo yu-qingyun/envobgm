@@ -8,6 +8,9 @@
 - Webpack 4.x，打包编译工具
 - Dexie 2.x，浏览器本地数据库
 - Eelectron 4.x，桌面端开发框架
+- Java 8, 后台
+- Postgres, 数据库
+- Springboot, 项目框架
 
 ## 项目预览
 ![image](./ezgif.com-video-to-gif.gif)
